@@ -1,0 +1,6 @@
+{
+  "name": "Caffè Ida - Italian-American Café & Deli",
+  "description": "Premium hospitality website for Caffè Ida on West Passyunk Ave, South Philadelphia. Handcrafted coffee, authentic Italian sandwiches, catering platters, and warm neighborhood hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
